@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="600" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif" />
+  <img width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE0NzVtb2VtcmlvaHJrdnBrcmV2MnZid3d4cWNydjNsbGczOTl1eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" />
 </div>
   <div align="center">
   <h2>Technologies</h2> 
