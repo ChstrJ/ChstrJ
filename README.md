@@ -1,5 +1,5 @@
  <div align="center">
-  <h1>Technologies</h1> 
+  <h2>Technologies</h2> 
   <br>
   <p align="center">
    <a href="https://skillicons.dev">
