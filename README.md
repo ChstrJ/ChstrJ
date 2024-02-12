@@ -1,4 +1,7 @@
- <div align="center">
+<div align="center">
+  <img width="600" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif" />
+</div>
+  <div align="center">
   <h2>Technologies</h2> 
   <br>
   <p align="center">
