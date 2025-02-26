@@ -20,5 +20,5 @@
 <p align="center">
 <img width="350" src="https://github-readme-stats.vercel.app/api?username=chstrj&count_private=true&show_icons=true&theme=react&hide_border=true&rank_icon=github&include_all_commits=true" alt="chstrj" />
 <img width="370" src="https://github-readme-streak-stats.herokuapp.com?user=chstrj&theme=gruvbox&hide_border=true" alt="chstrj" />
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chstrj&layout=compact&theme=react&langs_count=8" />
+<img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chstrj&layout=compact&theme=react&langs_count=8" />
 </p>
