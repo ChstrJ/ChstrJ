@@ -17,7 +17,7 @@
 
 <h2 align="center">Stats</h2>
 <p align="center">
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=chstrj&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" alt="chstrj" />
+<img width="450" src="https://github-readme-stats.vercel.app/api?username=chstrj&count_private=true&show_icons=true&theme=react&hide_border=true" alt="chstrj" />
 <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=chstrj&theme=buefy&hide_border=true" alt="chstrj" />
 </p>
 
