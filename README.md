@@ -1,5 +1,8 @@
+<div>
+<img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=chstrj&countColor=%237B1E7A">
+</div>
+<br><br>
 <div align="center">
-
 </div>
   <div align="center">
   <h2>Technologies</h2> 
@@ -23,3 +26,13 @@
 <img width="370" src="https://github-readme-streak-stats.herokuapp.com?user=chstrj&theme=react&hide_border=true" alt="chstrj" />
 <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chstrj&layout=compact&theme=react&langs_count=8" />
 </p>
+
+
+<h2 align="center">Projects</h2>
+<div width="100%" align="center">
+ <a align="left" href="https://github.com/chstrj/mentist-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chstrj&repo=mentist-app&theme=react" /></a>
+ <a align="left" href="https://github.com/marklouisALTER/Face_Recognition-GoogleColab-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=Face_Recognition-GoogleColab-&theme=tokyonight" /></a>
+ <a align="left" href="https://github.com/marklouisALTER/Face_Recognition-GoogleColab-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=node-js-template&theme=tokyonight" /></a>
+ <a align="left" href="https://github.com/marklouisALTER/python-exercises"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=next-js-template&theme=tokyonight" /></a>
+  <a align="left" href="https://github.com/marklouisALTER/Face_Recognition-GoogleColab-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marklouisALTER&repo=Face_Recognition-GoogleColab-&theme=tokyonight" /></a>
+</div>
