@@ -5,12 +5,12 @@
   <br>
   <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,git,mysql,typescript,javascript,docker" />
+     <img src="https://skillicons.dev/icons?i=tailwind,react,git,mysql,typescript,javascript,docker" />
    </a>
  </p>
   <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,git,python,django,mongodb,postman"/>
+     <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,,python,django,mongodb,postman"/>
    </a>
  </p>
  </div>
