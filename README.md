@@ -21,15 +21,16 @@
 
 <h2 align="center">Stats</h2>
 <p align="center">
-<img width="350" src="https://github-readme-stats.vercel.app/api?username=chstrj&count_private=true&show_icons=true&theme=react&hide_border=true&rank_icon=github&include_all_commits=true" alt="chstrj" />
+<!-- <img width="350" src="https://github-readme-stats.vercel.app/api?username=chstrj&count_private=true&show_icons=true&theme=react&hide_border=true&rank_icon=github&include_all_commits=true" alt="chstrj" /> -->
 <img width="370" src="https://github-readme-streak-stats.herokuapp.com?user=chstrj&theme=react&hide_border=true" alt="chstrj" />
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chstrj&layout=compact&theme=react&langs_count=8" />
+<!-- <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chstrj&layout=compact&theme=react&langs_count=8" /> -->
 </p>
 
-<h2 align="center">Projects</h2>
+<!-- <h2 align="center">Projects</h2>
 <div width="100%" align="center">
  <a align="left" href="https://github.com/ChstrJ/mentist-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChstrJ&repo=mentist-app&theme=react" /></a>
  <a align="left" href="https://github.com/ChstrJ/emergeton-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChstrJ&repo=emergeton-api&theme=react" /></a>
  <a align="left" href="https://github.com/ChstrJ/bbserver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChstrJ&repo=bbserver&theme=react" /></a>
   <a align="left" href="https://github.com/ChstrJ/side-env"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChstrJ&repo=side-env&theme=react" /></a>
-</div>
+</div> -->
+
